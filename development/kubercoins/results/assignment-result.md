@@ -1,9 +1,8 @@
 # Nombre de la asignación
 
 Participantes
-- Galileo Teco
-- Fidel Salas
-- Darvy Archuleta
+- Carlos Alberto Rodriguez
+- Angel Juan MArtinez Garcia
 
 Actividades
 - Kubercoins Development
